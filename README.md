@@ -1,2 +1,1 @@
-# award-winning-project-portfolio
-Award-winning undergraduate projects in business research, product design and technology commercialization.
+本科阶段完成的三个项目计划书合集，涵盖商业调研、科研转化与产业化方案设计，均为获奖项目。项目内容分别涉及知识付费平台市场调研与商业计划、基于MOF荧光探针的检测产品方案，以及仿生防雾抗菌涂层的研发与产业化路径。该合集主要体现本人在问题定义、调研分析、方案设计、商业化思维和跨学科整合方面的能力。
